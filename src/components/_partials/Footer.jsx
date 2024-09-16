@@ -1,7 +1,7 @@
 import { useLocation } from "react-router-dom";
 import { useTranslation } from "react-i18next";
-import IconLight from "../../../public/icons/IconLight";
-import IconDark from "../../../public/icons/IconDark";
+import IconLight from "../../../icons/IconLight";
+import IconDark from "../../../icons/IconDark";
 import { useTheme } from "../ThemeProvider";
 
 export default function Footer() {

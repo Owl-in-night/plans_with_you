@@ -22,7 +22,7 @@ function Home() {
         />
         <img
           alt=""
-          src="/public/img/HOMESM.png"
+          src="/img/HOMESM.png"
           className="sm:block md:hidden absolute inset-0 -z-10 h-full w-full object-cover object-right md:object-center"
         />
         <div

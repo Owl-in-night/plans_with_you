@@ -10,21 +10,21 @@ function Gallery() {
   }, [t]);
 
   const gallery = [
-    { id: 1, name: t("home.love19"), imageSrc: '/public/img/1.jpg' },
-    { id: 2, name: t("home.love20"), imageSrc: '/public/img/2.jpg' },
-    { id: 3, name: t("home.love21"), imageSrc: '/public/img/3.jpg' },
-    { id: 4, name: t("home.love22"), imageSrc: '/public/img/4.jpg' },
-    { id: 5, name: t("home.love23"), imageSrc: '/public/img/5.jpg' },
-    { id: 6, name: t("home.love24"), imageSrc: '/public/img/6.jpg' },
-    { id: 7, name: t("home.love25"), imageSrc: '/public/img/7.jpg' },
-    { id: 8, name: t("home.love26"), imageSrc: '/public/img/8.jpg' },
-    { id: 9, name: t("home.love27"), imageSrc: '/public/img/9.jpg' },
-    { id: 10, name: t("home.love28"), imageSrc: '/public/img/10.jpg' },
-    { id: 11, name: t("home.love29"), imageSrc: '/public/img/11.jpg' },
-    { id: 12, name: t("home.love30"), imageSrc: '/public/img/12.jpg' },
-    { id: 13, name: t("home.love31"), imageSrc: '/public/img/13.jpg' },
-    { id: 14, name: t("home.love32"), imageSrc: '/public/img/14.jpg' },
-    { id: 15, name: t("home.love33"), imageSrc: '/public/img/15.jpg' }
+    { id: 1, name: t("home.love19"), imageSrc: '/img/1.jpg' },
+    { id: 2, name: t("home.love20"), imageSrc: '/img/2.jpg' },
+    { id: 3, name: t("home.love21"), imageSrc: '/img/3.jpg' },
+    { id: 4, name: t("home.love22"), imageSrc: '/img/4.jpg' },
+    { id: 5, name: t("home.love23"), imageSrc: '/img/5.jpg' },
+    { id: 6, name: t("home.love24"), imageSrc: '/img/6.jpg' },
+    { id: 7, name: t("home.love25"), imageSrc: '/img/7.jpg' },
+    { id: 8, name: t("home.love26"), imageSrc: '/img/8.jpg' },
+    { id: 9, name: t("home.love27"), imageSrc: '/img/9.jpg' },
+    { id: 10, name: t("home.love28"), imageSrc: '/img/10.jpg' },
+    { id: 11, name: t("home.love29"), imageSrc: '/img/11.jpg' },
+    { id: 12, name: t("home.love30"), imageSrc: '/img/12.jpg' },
+    { id: 13, name: t("home.love31"), imageSrc: '/img/13.jpg' },
+    { id: 14, name: t("home.love32"), imageSrc: '/img/14.jpg' },
+    { id: 15, name: t("home.love33"), imageSrc: '/img/15.jpg' }
   ];
 
   return (

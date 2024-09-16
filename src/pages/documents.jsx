@@ -11,12 +11,12 @@ function Documents() {
           <h2 className="text-2xl font-bold tracking-tight">{t("home.love34")}</h2>
           <div className="mt-6">
             <img
-              src="/public/docs/TEAMO.png"
+              src="/docs/TEAMO.png"
               alt="Preview"
               className="w-auto h-auto"
             />
             <a
-              href="/public/docs/TEAMO.png"
+              href="/docs/TEAMO.png"
               download="TEAMO.png"
               className="mt-4 inline-block bg-blue-500 text-white py-2 px-4 rounded"
             >
