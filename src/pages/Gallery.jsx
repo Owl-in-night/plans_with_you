@@ -10,7 +10,7 @@ function Gallery() {
   }, [t]);
 
   const gallery = [
-    { id: 1, name: t("home.love19"), imageSrc: '/img/1.jpg' },
+    { id: 1, name: t("home.love19"), imageSrc: '/public/img/1.jpg' },
     { id: 2, name: t("home.love20"), imageSrc: '/img/2.jpg' },
     { id: 3, name: t("home.love21"), imageSrc: '/img/3.jpg' },
     { id: 4, name: t("home.love22"), imageSrc: '/img/4.jpg' },
