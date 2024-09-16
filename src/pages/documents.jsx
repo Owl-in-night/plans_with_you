@@ -11,7 +11,7 @@ function Documents() {
           <h2 className="text-2xl font-bold tracking-tight">{t("home.love34")}</h2>
           <div className="mt-6">
             <img
-              src="/docs/TEAMO.png"
+              src="/public/docs/TEAMO.png"
               alt="Preview"
               className="w-auto h-auto"
             />
