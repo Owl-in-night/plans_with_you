@@ -22,10 +22,10 @@ import { ModeToggle } from "./ModeToggle";
 import { Settings, Menu as MenuIcon, Earth } from "lucide-react";
 import { useTranslation } from "react-i18next";
 import i18next from "i18next";
-import IconLight from "../../../icons/IconLight";
-import IconDark from "../../../icons/IconDark";
-import IconNameLight from "../../../icons/iconNameLight";
-import IconNameDark from "../../../icons/iconNameDark";
+import IconLight from "/public/icons/IconLight";
+import IconDark from "/public/icons/IconDark";
+import IconNameLight from "/public/icons/iconNameLight";
+import IconNameDark from "/public/icons/iconNameDark";
 import { useTheme } from "../ThemeProvider";
 
 export default function Navbar() {
