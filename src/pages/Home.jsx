@@ -17,7 +17,7 @@ function Home() {
       <div className="relative isolate overflow-hidden  py-24 sm:py-32">
         <img
           alt=""
-          src="/public/img/HOME.png"
+          src="/img/HOME.png"
           className="hidden md:block absolute inset-0 -z-10 h-full w-full object-cover object-right md:object-center"
         />
         <img
