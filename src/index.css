@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 @layer base {
+  
   :root {
     --background: 0 0% 100%;
     --foreground: 240 10% 3.9%;
@@ -95,6 +96,11 @@
   transition: opacity 300ms;
 }
 
+#root{
+  font-family: "Gideon Roman", serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
 /* Spinner */
 .spinner {
